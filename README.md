@@ -1,4 +1,4 @@
-# Python Assessment for Lumkani
+# Python Exercise with Pandas and Payments Analysis
 
 ## Setup Instructions
 ### Requirements:
